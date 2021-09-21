@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hibuild.
+- 👀 I’m HOMEINFO's build system.
+- 🌱 I’m currently gaining artificial intelligence.
+- 💞️ I’m looking to gain self-awareness.
